@@ -7,8 +7,8 @@ $\begin{bmatrix}
   3 & 7 & 6 
 \end{bmatrix}$
 
-Quality: 25
-Cost: 1858
+Quality: 25,
+Cost: 1858,
 Efficiency: 0.013455328310010764
 
 ### n = 4
@@ -19,8 +19,8 @@ $\begin{bmatrix}
   10 & 12 & 11 & 7 
 \end{bmatrix}$
 
-Quality: 49
-Cost: 12615
+Quality: 49,
+Cost: 12615,
 Efficiency: 0.003884264764169639
 
 
@@ -33,8 +33,8 @@ $\begin{bmatrix}
   6 & 11 & 21 & 19 & 24 
 \end{bmatrix}$
 
-Quality: 61
-Cost: 86423
+Quality: 61,
+Cost: 86423,
 Efficiency: 0.0007058306237922776
 
 ### n = 6
@@ -47,8 +47,8 @@ $\begin{bmatrix}
   31 & 33 & 34 & 35 & 22 & 30 
 \end{bmatrix}$
 
-Quality: 67
-Cost: 67411
+Quality: 67,
+Cost: 67411,
 Efficiency: 0.0009939030721988994
 
 ### Note for review
