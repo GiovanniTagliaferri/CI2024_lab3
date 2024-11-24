@@ -57,3 +57,5 @@ Efficiency: 0.0009939030721988994
     A weighted sum of the two contributes can be done, but I noticed that the performance are better considering the sum with weights equal to 1.  
 
 2. To improve the algorithm's performance, states are prioritized by their __f__ and, in case of ties, by their __g__ (the depth in this case). Ordering by __f__ ensures the algorithm explores the most promising states first, while considering __g__ helps break ties by preferring states found earlier (with smaller depth) because they could represent a less complex path.
+
+3. If the __rand_moves__ value is too high, the puzzle might become overly mixed, causing the computational time to solve it to grow exponentially. Therefore, I chose a __rand_moves__ value that balances mixing complexity and performance.
